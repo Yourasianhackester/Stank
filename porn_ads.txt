@@ -559,9 +559,6 @@
 0.0.0.0 xxxbannerswap.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 yourads.website
-
-# List of duplicate URLs prepended "www", as they may resolve to a different address in certain circumstances (i.e. phone, country).
-
 0.0.0.0 www.ad1.doublepimp.com
 0.0.0.0 www.ad2.doublepimp.com
 0.0.0.0 www.ad.blackystars.com
@@ -802,6 +799,5 @@
 0.0.0.0 www.wm.banners.sextracker.com
 0.0.0.0 www.xapi.juicyads.com
 0.0.0.0 www.xxxbannerswap.com
-#
 
 # That's all for now.
