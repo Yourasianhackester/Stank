@@ -1,3 +1,4 @@
+0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 trafficjunky.com
 0.0.0.0 2ads.co.uk
 0.0.0.0 123.fluxads.com
